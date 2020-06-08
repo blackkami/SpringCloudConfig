@@ -1,3 +1,2 @@
-server:
-  port: 81
-  
+config:
+  info: "master branch,SpringCloudConfig/application-prod.yml version=1"
